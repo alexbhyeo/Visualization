@@ -1,2 +1,2 @@
-# visualization
-The scripts to create charts
+# Visualization
+This repo will stored all the visualization codes
